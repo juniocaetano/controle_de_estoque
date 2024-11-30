@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "controle_de_estoque",
-    "slug": "controle_de_estoque",
+    "slug": "curso",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/iconApp.png",
@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.junio_caetano.controle_de_estoque"
+      "package": "com.junio_caetano.curso"
     },
     "web": {
       "bundler": "metro",
